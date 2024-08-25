@@ -1,0 +1,6 @@
+This is second text file for git learning.
+
+Some text in the third string. 
+Some text in the fourth string of my file.
+Some text in the fifths string of my file.
+Prepare content to reset cycle.
